@@ -1,0 +1,7 @@
+Key Gemini: AIzaSyAuPzpbTzN24G-jFZTQLT_ZBoCqg5x-ZYU
+
+
+Usuario: DavyKandido
+senha MongoDB: 6b78Li4tMCHKcHDL
+
+String de conexão: mongodb+srv://DavyKandido:6b78Li4tMCHKcHDL@cluster0.w3wk6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
